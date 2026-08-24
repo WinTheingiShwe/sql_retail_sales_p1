@@ -3,7 +3,7 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
-**Database**: `sql_project_p2`
+**Database**: `retail_sales_db_p1`
 
 This project analyzes a retail sales dataset using SQL to demonstrate data cleaning, exploratory data analysis, and business-oriented data analysis.
 
@@ -23,7 +23,7 @@ This project analyzes a retail sales dataset using SQL to demonstrate data clean
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
-CREATE DATABASE sql_project_p2;
+CREATE DATABASE retail_sales_db_p1;
 
 CREATE TABLE retail_sales
 (
